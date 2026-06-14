@@ -1,0 +1,31 @@
+﻿  Ability.cpp
+  Combat_Manager.cpp
+  Combatant.cpp
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Combatant.cpp(110,32): error C2039: 'get_mana_cost': is not a member of 'Ability'
+      C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Ability.h(31,7):
+      see declaration of 'Ability'
+  
+  Input_Command.cpp
+  Items.cpp
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(6,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(7,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(13,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(14,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(20,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(21,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(27,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(28,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(34,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(35,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(41,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(42,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(48,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(49,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(56,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(57,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Items.cpp(98,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Status_Effects.cpp
+  Generating Code...
+C:\Users\nigel\source\repos\Improved_Combat_System\Improved_Combat_System\Combat_Manager.cpp(22,1): warning C4715: 'Combat_Manager::winner': not all control paths return a value
